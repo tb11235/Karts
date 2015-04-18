@@ -8,7 +8,7 @@ public class carSound : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-
+		audio_engine.Play ();
 	}
 
 	// Update is called once per frame
